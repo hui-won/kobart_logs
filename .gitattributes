@@ -1,0 +1,1 @@
+epoch=23-val_loss=2.134.ckpt filter=lfs diff=lfs merge=lfs -text
